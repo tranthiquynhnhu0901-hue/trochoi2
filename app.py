@@ -1,6 +1,6 @@
 
 import streamlit as st
-st.image("logo123.jpg")
+st.image("123.jpg")
 
 import pandas as pd
 import urllib.parse
