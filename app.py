@@ -1,5 +1,7 @@
 
 import streamlit as st
+st.image("Thiết kế chưa có tên (2).jpg")
+
 import pandas as pd
 import urllib.parse
 from datetime import datetime
