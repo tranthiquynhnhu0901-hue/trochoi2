@@ -1,6 +1,6 @@
 
 import streamlit as st
-st.image("Thiết kế chưa có tên (2).jpg")
+st.image("logo123.jpg")
 
 import pandas as pd
 import urllib.parse
